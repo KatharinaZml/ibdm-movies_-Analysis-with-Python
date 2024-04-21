@@ -1,0 +1,4 @@
+The dataset from the Internet Movie Database (IMDb) online database, consisting of information related to films, television series, podcasts, etc. Based on the target, the IMDB score, this study aims to predict which attributes make a movie more successful than others. In other words, this study analyses which features have a higher IMDB score. 
+The dataset shows 28 variables, of which 15 are numeric and 11 are categorical for 5043 movies. IMDB_score is the target, while the other 27 are potential features. Given the two different variable types, both Regression for continuous variables and Classification models for categorical variables are built.
+
+Note: The approach is based on the notebook by Bharath Raja "Statistical Approach for Predicting IMDB" (09/2019). (Please see: https://www.kaggle.com/bharathraja/statistical-approach-for-predicting-imdb)
